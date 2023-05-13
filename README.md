@@ -27,7 +27,7 @@ In this study, we will try to estimate the most suitable package for the new use
 
 In this study, we will try to determine the best treatment that can be applied to a new patient by building a model on a dataset that includes patients' responses to different drugs. The aim is to determine the drug that will give the best treatment by applying very little testing to the new patient.
 
-7. K-Mean Clustering:
+7.K-Mean Clustering:
 k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster
 ![kkkk](https://github.com/lyamann001/Machine-Learing/assets/60852845/36da0e67-366b-46e2-b1bd-66da8b2fda81)
 
